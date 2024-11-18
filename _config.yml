@@ -26,13 +26,11 @@ education:
 work_experience:
   - title: "Data Analyst Intern"
     company: "1800 Hiring"
-    description: |
+    description: >
       - As a Data Analyst Intern at 1800 Hiring, I leveraged data-driven insights to enhance recruitment efficiency, achieving a 15% reduction in time-to-fill and a 20% improvement in candidate-to-job matches. I specialized in performance reporting, data cleaning, and process optimization to drive impactful recruitment outcomes.
 # Projects
 projects:
   - name: "NFL Big Data Bowl Competition 2025"
-
-    ![NFL Analytics](/assets/reshot-football.png)
-
+    image: "/assets/reshot-football.png"
     link: "#"
 
