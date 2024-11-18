@@ -1,26 +1,39 @@
-title: Musa Rangrez
-logo: /assets/headshot.png.jpg
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+title: "Musa Rangrez"
+logo: "/assets/headshot.png.jpg"
+# Optional description or additional settings
+# description: "Data Scientist Portfolio"
+# show_downloads: true
+theme: "jekyll-theme-minimal"
 
-# Data Scientist 
+# Technical Skills
+technical_skills:
+  - "Python"
+  - "SQL"
+  - "MATLAB"
+  - "AWS"
+  - "Tableau"
 
-#### Technical Skills: Python, SQL, MATLAB, AWS, Tableau
+# Education
+education:
+  - degree: "B.S., Computer Science"
+    institution: "Oregon State University at Corvallis"
+    graduation: "Expected May 2025"
+  - degree: "B.A., Public Health Policy"
+    institution: "University of California, Irvine"
+    graduation: "June 2022"
 
-## Education
-- B.S., Computer Science | Oregon State University at Corvallis (_Expected Graduation May 2025_)
-- B.A., Public Health Policy | University of California, Irvine at Irvine (_June 2022_)
+# Work Experience
+work_experience:
+  - title: "Data Analyst"
+    company: "1800 Hiring"
+    description: |
+      - Analyzed recruitment data to improve candidate placement rate, optimizing the placement process and reducing time-to-fill by 15%.
+      - Developed and distributed weekly performance reports for recruitment campaigns, increasing recruiter efficiency by 10%.
+      - Cleaned and validated candidate data, improving data integrity and leading to a 20% enhancement in candidate-to-job matches.
 
-## Work Experience 
-**Data Analyst @ 1800 Hiring** 
-- Analyzed recruitment data to improve candidate placement rate, including key metrics such as candidate sourcing and interview-to-hire ratios, to identify trends and optimize the placement process, resulting in a 15% reduction in time-to-fill for open positions across multiple departments.
-- Developed and distributed weekly performance reports for recruitment campaigns, using Excel and data visualization tools, to monitor campaign success and identify areas for improvement, which led to a 10% increase in recruiter efficiency and better resource allocation.
-- Cleaned and validated candidate data, ensuring consistency and accuracy in the applicant tracking system, to improve data integrity and the quality of candidate matches, leading to a 20% enhancement in candidate-to-job matches, reducing mismatches and improving overall recruitment outcomes.
-
-## Projects
-### NFL Big Data Bowl Competition 2025
-[GitHub Link](#)
-
-### Chess Game
-[GitHub Link](#)
+# Projects
+projects:
+  - name: "NFL Big Data Bowl Competition 2025"
+    link: "#"
+  - name: "Chess Game"
+    link: "#"
