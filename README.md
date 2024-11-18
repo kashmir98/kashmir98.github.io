@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, MATLAB, AWS, Tableau
 
 ## Education
-Public Health, Bachelor's Degree
-Computer Science, Post-Bacc Program 
+- B.S., Computer Science | Oregon State University at Corvallis (_Expected Graduation May 2025_)
+- B.A., Public Health Policy | University of California, Irvine at Irvine (_June 2022_)
 
 ## Work Experience 
 **Data Analyst @ 1800 Hiring** 
