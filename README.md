@@ -1,10 +1,14 @@
 # Data Scientist 
 
+**My Vision**
+
+I thrive at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. By leveraging data science, I aim to drive informed decision-making and create solutions that positively impact both organizations and communities
+
 #### Technical Skills: Python, SQL, MATLAB, AWS, Tableau
 
 ## Education
-- B.S., Computer Science | Oregon State University at Corvallis (_Expected Graduation May 2025_)
-- B.A., Public Health Policy | University of California, Irvine at Irvine (_June 2022_)
+- B.S., Computer Science | Oregon State University (_Expected Graduation May 2025_)
+- B.A., Public Health Policy | University of California, Irvine (_June 2022_)
 
 ## Work Experience 
 **Data Analyst @ 1800 Hiring** 
