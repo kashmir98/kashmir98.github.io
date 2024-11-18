@@ -1,4 +1,4 @@
-title: "MUSA RANGREZ"
+title: "  Musa Rangrez"
 logo: "/assets/roundedheadshot.png"
 theme: "jekyll-theme-minimal"
 #description: "I am passionate about working at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. Here is a showcase of my skills and projects in data analysis, problem-solving, and innovative solutions. Explore how I use data to drive impact and create value."
@@ -31,5 +31,8 @@ work_experience:
 # Projects
 projects:
   - name: "NFL Big Data Bowl Competition 2025"
+
+    ![NFL Analytics](/assets/reshot-football.png)
+
     link: "#"
 
