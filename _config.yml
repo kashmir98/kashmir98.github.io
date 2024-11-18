@@ -1,7 +1,7 @@
-title: "Musa Rangrez"
+title: "MUSA RANGREZ"
 logo: "/assets/roundedheadshot.png"
 theme: "jekyll-theme-minimal"
-description: "I thrive at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. By leveraging data science, I aim to drive informed decision-making and create solutions that positively impact both organizations and communities"
+description: "I am passionate about working at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. Here is a showcase of my skills and projects in data analysis, problem-solving, and innovative solutions. Explore how I use data to drive impact and create value."
 # show_downloads: true
 
 
@@ -16,7 +16,7 @@ technical_skills:
 # Education
 education:
   - degree: "B.S., Computer Science"
-    institution: "Oregon State University at Corvallis"
+    institution: "Oregon State University"
     graduation: "Expected May 2025"
   - degree: "B.A., Public Health Policy"
     institution: "University of California, Irvine"
@@ -24,16 +24,12 @@ education:
 
 # Work Experience
 work_experience:
-  - title: "Data Analyst"
+  - title: "Data Analyst Intern"
     company: "1800 Hiring"
     description: |
-      - Analyzed recruitment data to improve candidate placement rate, optimizing the placement process and reducing time-to-fill by 15%.
-      - Developed and distributed weekly performance reports for recruitment campaigns, increasing recruiter efficiency by 10%.
-      - Cleaned and validated candidate data, improving data integrity and leading to a 20% enhancement in candidate-to-job matches.
-
+      - As a Data Analyst Intern at 1800 Hiring, I leveraged data-driven insights to enhance recruitment efficiency, achieving a 15% reduction in time-to-fill and a 20% improvement in candidate-to-job matches. I specialized in performance reporting, data cleaning, and process optimization to drive impactful recruitment outcomes.
 # Projects
 projects:
   - name: "NFL Big Data Bowl Competition 2025"
     link: "#"
-  - name: "Chess Game"
-    link: "#"
+
