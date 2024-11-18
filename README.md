@@ -1,5 +1,3 @@
-# kashmir98.github.io
-
 #Data Scientist 
 
 #### Technical Skills: Python, SQL, MATLAB, AWS, Tableau
