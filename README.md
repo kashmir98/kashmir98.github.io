@@ -6,8 +6,8 @@ I am passionate about working at the intersection of data, innovation, and strat
 #### Technical Skills: Python, SQL, MATLAB, AWS, Tableau
 
 # Education
-  - **B.S., Computer Science, Oregon State University | (_Expected May 2025_)**
-  - **B.A., Public Health Policy, University of California, | Irvine (_June 2022_)**
+  - **B.S., Computer Science, Oregon State University** | *(_Expected May 2025_)*
+  - **B.A., Public Health Policy, University of California** | *(_June 2022_)*
 
 # Work Experience
   - **Data Analyst Intern @ 1800 Hiring** | (_Jan 2023 – Jun 2024_):  
