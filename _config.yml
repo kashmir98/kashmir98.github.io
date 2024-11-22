@@ -1,5 +1,5 @@
 title: "Musa Rangrez"
-logo: "/assets/roundedheadshot.png"
+logo: #"/assets/roundedheadshot.png"
 theme: "jekyll-theme-minimal"
 
 # Technical Skills
