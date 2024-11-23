@@ -1,4 +1,4 @@
-# Data Scientist 
+# Aspiring Data Scientist 
 
 **My Vision:**
 I am passionate about working at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. Here is a showcase of my skills and projects in data analysis, problem-solving, and innovative solutions. Explore how I use data to drive impact and create value.
