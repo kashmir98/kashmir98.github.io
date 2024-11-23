@@ -24,5 +24,5 @@ I am passionate about working at the intersection of data, innovation, and strat
   - **Email**: [musarangrez@hotmail.com](mailto:musarangrez@hotmail.com)
   - **LinkedIn**: [linkedin.com/in/musarangrez](https://linkedin.com/in/musarangrez)
   - **GitHub**: [github.com/kashmir98](https://github.com/kashmir98)
-  - **Currently residing in Fullerton, CA**
+  
 
