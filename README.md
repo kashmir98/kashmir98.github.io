@@ -19,6 +19,8 @@ I am passionate about working at the intersection of data, innovation, and strat
 # Projects
   - **[NFL Big Data Bowl Competition 2025](https://github.com/kashmir98/NFL-Big-Data-Bowl-2025)**:  
     Leveraged player tracking data to predict pre-snap to post-snap dynamics, utilizing Python and SQL to generate actionable insights into team strategies and player behavior.
+  - **[Fog of War Chess](https://github.com/kashmir98/Custom-Chess-Game)**:
+    Developed a custom chess game with unique rules and mechanics, utilizing Python to implement game logic and interactions. Designed an engaging program to simulate gameplay, ensuring functionality, user-friendly features, and seamless integration of graphical assets.
 
 # Contact Me
   - **Email**: [musarangrez@hotmail.com](mailto:musarangrez@hotmail.com)
