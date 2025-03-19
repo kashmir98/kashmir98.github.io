@@ -1,15 +1,15 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/103617208?s=400&u=684e8468a67fd78f6bd3c264ed3fe2b74638e73a&v=4" width="150" height="150" alt="Musa Rangrez">
-</p>
-
-<p align="center">
-  <b>Hi, I'm Musa — an aspiring data scientist turning complex data into clear insights.</b>
-</p>
-
-# Aspiring Data Scientist  
-
-**My Vision:**  
-I am passionate about working at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. This portfolio is a showcase of my skills and projects in data analysis, problem-solving, and delivering innovative solutions. Explore how I use data to drive impact and create value.  
+<table>
+<tr>
+<td width="150">
+  <img src="https://avatars.githubusercontent.com/u/103617208?s=400&u=684e8468a67fd78f6bd3c264ed3fe2b74638e73a&v=4" width="150" alt="Musa Rangrez">
+</td>
+<td>
+  <h1>Aspiring Data Scientist</h1>
+  <p><b>Hi, I'm Musa — an aspiring data scientist turning complex data into clear insights.</b></p>
+  <p>I am passionate about working at the intersection of data, innovation, and strategy, constantly seeking to transform raw numbers into actionable insights. This portfolio is a showcase of my skills and projects in data analysis, problem-solving, and delivering innovative solutions. Explore how I use data to drive impact and create value.</p>
+</td>
+</tr>
+</table>
 
 ---
 
