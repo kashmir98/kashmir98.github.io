@@ -27,12 +27,14 @@ My research experience at UCI Health's Beckman Laser Institute allowed me to app
 ---
 
 ## 🛠 **Projects**  
-- **[NFL Big Data Bowl Competition 2025](https://github.com/kashmir98/NFL-Big-Data-Bowl-2025)**  
-  Analyzed player tracking data to uncover insights into pre-snap and post-snap dynamics, using Python and SQL to help visualize team tendencies and player strategies.  
+- **[Synthea Healthcare Analytics](https://github.com/kashmir98/synthea-healthcare-analytics)**  
+  Conducted public health analysis on synthetic EHR data using ICD and CPT codes. Merged encounter, procedure, and condition datasets to surface trends across gender and age groups, with encounter-level diagnosis-to-procedure modeling in Python.
 
 - **[Fog of War Chess](https://github.com/kashmir98/Custom-Chess-Game)**  
   Created a Python-based chess variant with Fog of War rules, enabling players to only see their pieces and valid moves, with dynamic board perspectives for players and observers.  
 
+- **[NFL Big Data Bowl Competition 2025](https://github.com/kashmir98/NFL-Big-Data-Bowl-2025)**  
+  Analyzed player tracking data to uncover insights into pre-snap and post-snap dynamics, using Python and SQL to help visualize team tendencies and player strategies.
 ---
 
 ## 📫 **Contact Me**  
